@@ -7,3 +7,5 @@ El objeto de documento es el nodo raíz del documento HTML
 
 El appendChild agrega nuevos elementos aun documento ya existente
 El fragment se utiliza como una versión ligera de Document que almacena un segmento de una estructura de documento
+
+EL elemento template es un mecanismo para mantener el contenido html del lado del cliente sin que se renderize

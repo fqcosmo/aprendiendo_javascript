@@ -1,0 +1,9 @@
+¿Qué es el DOM document object model?
+El dom es una represatición de un documento como un grupo de nodos y objetos estructurados que tienen propiedades y métodos
+Esencialmente conecta las páginas webs a scripts o lenguajes de programación
+
+Cuando un documento HTML se carga en una web se convierte en un objeto de documento
+El objeto de documento es el nodo raíz del documento HTML
+
+El appendChild agrega nuevos elementos aun documento ya existente
+El fragment se utiliza como una versión ligera de Document que almacena un segmento de una estructura de documento
